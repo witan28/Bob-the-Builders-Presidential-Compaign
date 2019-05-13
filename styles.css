@@ -1,0 +1,57 @@
+.img {
+    width: 500px;
+    height: 500px;
+    border: lightblue solid 15px;
+}
+
+body {
+    background-image: url(https://geniebelt.com/wp-content/uploads/hong-kong-2378050_1920.jpg);
+    padding: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: gold;
+    font-family: 'Unlock', cursive;
+    text-shadow: 5px 5px 4px black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 90px;
+    color: red;
+    font-family: 'Cabin Sketch', cursive;
+    text-shadow: 5px 5px 4px black;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin: 160px;
+    font-size: 100px;
+    background-color: green;
+    border: 5px lightgreen solid;
+    text-shadow: 5px 5px 4px black;
+}
+
+h3 {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Cabin Sketch', cursive;
+    color: red;
+    text-shadow: 5px 5px 4px black;
+}
+
+p {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Cabin Sketch', cursive;
+    color: white;
+    text-shadow: 5px 5px 4px black;
+}
